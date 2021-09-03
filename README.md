@@ -13,6 +13,11 @@
 </a>
 
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagtf&layout=compact&theme=gotham&langs_count=6&custom_title=top-languages&card_width=255"/>
+  &nbsp; &nbsp; &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagtf&theme=gotham&custom_title=my-github-stats&hide=issues"/>
+</p>
 
 <!--
 **EagTf/EagTf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
