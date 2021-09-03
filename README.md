@@ -9,7 +9,7 @@
 </a>
   &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/eagtf/eagf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eagtfo&repo=eagf&theme=gotham"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eagtf&repo=eagf&theme=gotham"/>
 </a>
 
 </p>
